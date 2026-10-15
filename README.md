@@ -1,4 +1,4 @@
-# Robot Birthday OLED 🎂🤖
+# Nano Birthday OLED Suprise
 
 A small Arduino Nano project that combines animated robot eyes with a button-triggered birthday surprise. It uses a 128×64 I²C OLED, a push button, and a passive piezo buzzer.
 
